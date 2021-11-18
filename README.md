@@ -1,5 +1,7 @@
 # Analysis reproduction repository for the MeerKAT discovery paper of radio emission from the Vela X-1 bow shock.
 
+![Vela X-1 field with MeerKAT](Figure1_2/field.png?raw=true "Vela X-1 field with MeerKAT")
+
 ## Based on Van den Eijnden et al. (2021), MNRAS submitted. 
 ## DOI and links to be added later.
 
