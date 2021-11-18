@@ -21,4 +21,4 @@ In addition, this notebook makes use of the following packages, where the associ
 - scipy v1.1.0
 - astropy v2.0.9
 
-Finally, as noted in the notebook, Figure 3 of the paper is created using ds9 instead of python. 
+Finally, as noted in the notebook, Figure 3 of the paper is created using ds9 instead of python!
