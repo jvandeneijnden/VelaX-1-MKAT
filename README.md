@@ -2,8 +2,8 @@
 
 ![Vela X-1 field with MeerKAT](Figure1_2/field.png?raw=true "Vela X-1 field with MeerKAT")
 
-## Based on Van den Eijnden et al. (2021), MNRAS submitted. 
-## DOI and links to be added later.
+## Based on Van den Eijnden et al. (2021), MNRAS accepted. 
+Paper can be found on https://arxiv.org/abs/2111.10159 (open access).
 
 This repository contains a Jupyter notebook and all required underlying data to produce the images in the paper "MeerKAT discovery of radio emission from the Vela X-1 bow shock". In order to run the Notebook, check the software requirements below, clone the repository, and run through each cell. The derivations and motivations for the performed calculations are also included to certain extend, although we refer to the main paper for full details. 
 
