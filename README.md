@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/402729652.svg)](https://zenodo.org/doi/10.5281/zenodo.10038516)
+
 # Analysis reproduction repository for the MeerKAT discovery paper of radio emission from the Vela X-1 bow shock.
 
 ![Vela X-1 field with MeerKAT](Figure1_2/field.png?raw=true "Vela X-1 field with MeerKAT")
